@@ -4,7 +4,6 @@ class Rect {
   constructor(x, y, width, height, style) {
     this.set(x, y, width, height);
     this.style = style;
-    this.hitbox = null;//aqui nos quedamos
   }
 
   set = (x, y, width, height) => {

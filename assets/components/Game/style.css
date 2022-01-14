@@ -23,3 +23,11 @@ body {
   background-color: green;
   position: absolute;
 }
+.mapCell {
+  background-color: lightblue;
+  position: absolute;
+}
+.mapCellCenter {
+  background-color: yellow;
+  position: absolute;
+}
